@@ -1,1 +1,1 @@
-print("Hello students, Add utilities to this folder - updated")
+print("Hello students, Add utilities to this folder")
